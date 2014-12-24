@@ -1,0 +1,70 @@
+2014-12-17:17:34:31 INFO: ------- dataType: 0 dim: 2 cardinality: 300000000 -------
+2014-12-17:17:34:31 INFO: Finish to generate and write rawdata file: rawdata_0_300M_2d.txt; time: 0 s.
+2014-12-17:17:34:31 INFO: 
+2014-12-17:17:34:31 INFO: ------- dataType: 0 dim: 3 cardinality: 300000000 -------
+2014-12-17:17:34:31 INFO: Finish to generate and write rawdata file: rawdata_0_300M_3d.txt; time: 0 s.
+2014-12-17:17:34:31 INFO: 
+2014-12-17:17:34:31 INFO: ------- dataType: 0 dim: 4 cardinality: 300000000 -------
+2014-12-17:17:34:31 INFO: Finish to generate and write rawdata file: rawdata_0_300M_4d.txt; time: 0 s.
+2014-12-17:17:34:31 INFO: 
+2014-12-17:17:34:31 INFO: ------- dataType: 0 dim: 5 cardinality: 300000000 -------
+2014-12-17:17:34:31 INFO: Finish to generate and write rawdata file: rawdata_0_300M_5d.txt; time: 0 s.
+2014-12-17:17:34:31 INFO: 
+2014-12-17:17:34:31 INFO: ------- dataType: 0 dim: 6 cardinality: 300000000 -------
+2014-12-17:17:34:31 INFO: Finish to generate and write rawdata file: rawdata_0_300M_6d.txt; time: 0 s.
+2014-12-17:17:34:31 INFO: 
+2014-12-17:17:34:31 INFO: ------- dataType: 0 dim: 7 cardinality: 300000000 -------
+2014-12-17:17:34:31 INFO: Finish to generate and write rawdata file: rawdata_0_300M_7d.txt; time: 0 s.
+2014-12-17:17:34:31 INFO: 
+2014-12-17:17:34:31 INFO: ------- dataType: 0 dim: 8 cardinality: 300000000 -------
+2014-12-17:17:34:31 INFO: Finish to generate and write rawdata file: rawdata_0_300M_8d.txt; time: 0 s.
+2014-12-17:17:34:31 INFO: 
+2014-12-17:17:36:12 INFO: --------------------- dataType: 0 dim: 2 cardinality: 300000000 ---------------------
+2014-12-17:17:36:12 INFO: Finish to generate and write rawdata file: rawdata_0_300M_2d.txt; time: 0 s.
+2014-12-17:17:36:12 INFO: 
+2014-12-17:17:36:12 INFO: --------------------- dataType: 0 dim: 3 cardinality: 300000000 ---------------------
+2014-12-17:17:36:12 INFO: Finish to generate and write rawdata file: rawdata_0_300M_3d.txt; time: 0 s.
+2014-12-17:17:36:12 INFO: 
+2014-12-17:17:36:12 INFO: --------------------- dataType: 0 dim: 4 cardinality: 300000000 ---------------------
+2014-12-17:17:36:12 INFO: Finish to generate and write rawdata file: rawdata_0_300M_4d.txt; time: 0 s.
+2014-12-17:17:36:12 INFO: 
+2014-12-17:17:36:12 INFO: --------------------- dataType: 0 dim: 5 cardinality: 300000000 ---------------------
+2014-12-17:17:36:12 INFO: Finish to generate and write rawdata file: rawdata_0_300M_5d.txt; time: 0 s.
+2014-12-17:17:36:12 INFO: 
+2014-12-17:17:36:12 INFO: --------------------- dataType: 0 dim: 6 cardinality: 300000000 ---------------------
+2014-12-17:17:36:12 INFO: Finish to generate and write rawdata file: rawdata_0_300M_6d.txt; time: 0 s.
+2014-12-17:17:36:12 INFO: 
+2014-12-17:17:36:12 INFO: --------------------- dataType: 0 dim: 7 cardinality: 300000000 ---------------------
+2014-12-17:17:36:12 INFO: Finish to generate and write rawdata file: rawdata_0_300M_7d.txt; time: 0 s.
+2014-12-17:17:36:12 INFO: 
+2014-12-17:17:36:12 INFO: --------------------- dataType: 0 dim: 8 cardinality: 300000000 ---------------------
+2014-12-17:17:36:12 INFO: Finish to generate and write rawdata file: rawdata_0_300M_8d.txt; time: 0 s.
+2014-12-17:17:36:12 INFO: 
+2014-12-17:17:37:08 INFO: --------------------- dataType: 0 dim: 2 cardinality: 300000000 ---------------------
+2014-12-17:17:37:08 INFO: Finish to generate and write rawdata file: rawdata_0_300M_2d.txt; time: 0 s.
+2014-12-17:17:37:08 INFO: 
+
+2014-12-17:17:37:08 INFO: --------------------- dataType: 0 dim: 3 cardinality: 300000000 ---------------------
+2014-12-17:17:37:08 INFO: Finish to generate and write rawdata file: rawdata_0_300M_3d.txt; time: 0 s.
+2014-12-17:17:37:08 INFO: 
+
+2014-12-17:17:37:08 INFO: --------------------- dataType: 0 dim: 4 cardinality: 300000000 ---------------------
+2014-12-17:17:37:08 INFO: Finish to generate and write rawdata file: rawdata_0_300M_4d.txt; time: 0 s.
+2014-12-17:17:37:08 INFO: 
+
+2014-12-17:17:37:08 INFO: --------------------- dataType: 0 dim: 5 cardinality: 300000000 ---------------------
+2014-12-17:17:37:08 INFO: Finish to generate and write rawdata file: rawdata_0_300M_5d.txt; time: 0 s.
+2014-12-17:17:37:08 INFO: 
+
+2014-12-17:17:37:08 INFO: --------------------- dataType: 0 dim: 6 cardinality: 300000000 ---------------------
+2014-12-17:17:37:08 INFO: Finish to generate and write rawdata file: rawdata_0_300M_6d.txt; time: 0 s.
+2014-12-17:17:37:08 INFO: 
+
+2014-12-17:17:37:08 INFO: --------------------- dataType: 0 dim: 7 cardinality: 300000000 ---------------------
+2014-12-17:17:37:08 INFO: Finish to generate and write rawdata file: rawdata_0_300M_7d.txt; time: 0 s.
+2014-12-17:17:37:08 INFO: 
+
+2014-12-17:17:37:08 INFO: --------------------- dataType: 0 dim: 8 cardinality: 300000000 ---------------------
+2014-12-17:17:37:08 INFO: Finish to generate and write rawdata file: rawdata_0_300M_8d.txt; time: 0 s.
+2014-12-17:17:37:08 INFO: 
+

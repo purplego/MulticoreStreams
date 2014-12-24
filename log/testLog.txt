@@ -1,0 +1,5 @@
+2014-12-17:17:21:37 INFO: Test MyLogger.
+2014-12-17:17:26:39 INFO: Test MyLogger.
+2014-12-17:17:26:40 INFO: This is the sub log.
+2014-12-17:21:12:25 INFO: Test MyLogger.
+2014-12-17:21:12:25 INFO: This is the sub log.

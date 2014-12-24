@@ -1,0 +1,16 @@
+CONFIG_DIRECTORY=./config/
+DATA_DIRECTORY=./data/
+LOG_DIRECTORY=./log/
+RAWDATAFILE=rawdata.txt
+	
+DATATYPE=0
+DIMENSION=5
+CARDINALITY=1000000000
+
+StreamRate=1
+GlobalWindowSize=10000000
+LocalWindowSize=1000
+	
+NumPsExecutor=8
+MaxBufferSize=10000
+QueryGran = 10000
